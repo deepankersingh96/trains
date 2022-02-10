@@ -61,7 +61,7 @@ tensorboard == 1.15.0
 # C:\Users\ISE3KOR\Documents\Deepanker\learning\trains\trains\examples\tensorflow_mnist.py: 16,42
 # C:\Users\ISE3KOR\Documents\Deepanker\learning\trains\trains\examples\tensorflow_mnist_with_summaries.py: 31,33
 # C:\Users\ISE3KOR\Documents\Deepanker\learning\trains\trains\examples\tensorflow_v2_mnist.py: 5,6
-tensorflow == 1.15.0
+tensorflow == 2.5.3
 
 # C:\Users\ISE3KOR\Documents\Deepanker\learning\trains\trains\examples\manual_model_config.py: 6
 # C:\Users\ISE3KOR\Documents\Deepanker\learning\trains\trains\examples\pytorch_matplotlib.py: 48,49,50,51
