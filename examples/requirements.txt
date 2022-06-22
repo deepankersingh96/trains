@@ -37,7 +37,7 @@ matplotlib == 3.1.3
 # C:\Users\ISE3KOR\Documents\Deepanker\learning\trains\trains\examples\tensorboard_toy.py: 4
 # C:\Users\ISE3KOR\Documents\Deepanker\learning\trains\trains\examples\tensorboard_toy_pytorch.py: 1
 # C:\Users\ISE3KOR\Documents\Deepanker\learning\trains\trains\examples\tensorflow_mnist.py: 15
-numpy == 1.18.1
+numpy == 1.22.0
 
 # C:\Users\ISE3KOR\Documents\Deepanker\learning\trains\trains\examples\artifacts_toy.py: 3
 # C:\Users\ISE3KOR\Documents\Deepanker\learning\trains\trains\examples\manual_reporting.py: 68
